@@ -1,0 +1,269 @@
+{
+  "BundleName": "bgimage_en",
+  "Entries": [
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念3.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念3.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念4.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_強迫概念4.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_最初から.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_最初から.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_最初から2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/7章_最初から2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/8章_世界に光を.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/8章_世界に光を.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/8章_世界に光を2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/8章_世界に光を2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/ev_bc_2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/ev_bc_2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/ev_bc_3.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/ev_bc_3.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/ev_bc_4.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/ev_bc_4.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ1.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ1.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ3.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ3.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ4.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ4.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ5.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ5.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ6.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ6.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ7.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDA_プロローグ7.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDH_タイトル1.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FDH_タイトル1.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング1.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング1.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング3.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング3.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング4.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング4.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5A.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5A.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5B.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5B.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5C.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング5C.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング6.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング6.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング7.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング7.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング8.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディング8.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディングen.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンディングen.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンド.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_エンド.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_タイトル背景.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_タイトル背景.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_タイトル背景2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_タイトル背景2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_タイトル背景3.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_タイトル背景3.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_前編終わり.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_前編終わり.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_四年前.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_四年前.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_広い世界.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_広い世界.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_広い世界2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_広い世界2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念3.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念3.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念4.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念4.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念5.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念5.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念6.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念6.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念7.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念7.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念8.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_強迫観念8.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_舞台裏注意.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/FD_舞台裏注意.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_1.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_1.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_3.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_3.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_4.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_4.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_5.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_5.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_6.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_6.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_7.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_7.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_8.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_8.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_9.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/sihen_9.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_再会右.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_再会右.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_再会左.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_再会左.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_振り返った先.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_振り返った先.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_振り返った先2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_振り返った先2.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_館の解放.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/エンディング_館の解放.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/導入.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/導入.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/注意書き.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/注意書き.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/滅びゆく物語に.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/滅びゆく物語に.png"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/bgimage/滅びゆく物語に2.png",
+      "BundlePath": "Assets/fata_unity/AssetBundleResources/data/bgimage/滅びゆく物語に2.png"
+    }
+  ]
+}

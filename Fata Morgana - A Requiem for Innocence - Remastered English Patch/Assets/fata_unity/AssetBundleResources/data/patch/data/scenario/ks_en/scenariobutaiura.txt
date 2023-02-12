@@ -563,9 +563,8 @@ And your face... [w]is healed...[p]
 [ジェレン storage="体 ドヤ - - "]
 [char_motion_start name=ジェレン motion="あわわ" page="fore" wait=false]
 Heya there, Jacky![l][r]
-Whoa, what’s with the duds?[p]
 [ジェレン storage="体 きょとん - - "]
-……って、[w]その服どーしたんすか？[p]
+Whoa,[w] what's with the duds?[p]
 *scenariobutaiura_20BC9A88_2969_4795_A0BC_65005A7295FE|
 [cm]
 
@@ -1913,7 +1912,7 @@ I’ll stick up for ya no matter how bad ya cocked up![p]
 [cm]
 
 [SetSpeaker name="Gratien"]
-[font size="25" bold="true"]わりい、[w]擁護できねーわ！[p]
+[font size="25" bold="true"]Sorry,[w] ain’t no stickin’ up for that![p]
 *scenariobutaiura_B15A2FCD_C16A_4DF9_97F9_67F1F7F41AB2|
 [cm]
 
@@ -1923,7 +1922,7 @@ In addition to that, in his next life, he imprisoned half of my soul.[p]
 [cm]
 
 [SetSpeaker name="Gratien"]
-[font size="25" bold="true"]わりい、[w]やっぱ擁護できねーわ！[p]
+[font size="25" bold="true"]Yep, can’t defend that, kid! Sorry![p]
 *scenariobutaiura_658EB785_71D3_4AEB_AC9D_461306C91960|
 [cm]
 
@@ -2842,9 +2841,8 @@ Rggh...[p]
 [SetSpeaker name="Ceren"]
 [ジェレン storage="体 叫び - - " pinned="false"]
 And then we get to the big turning point.[l][r]
-Him locking Morgs up in the tower![p]
 [char_motion_start name=ジェレン motion="あわわ" page="fore" wait=false]
-モっちゃん幽閉事件っす～！！！[p]
+Him locking Morgs up in the tower![p]
 *scenariobutaiura_A656B11A_2E94_481F_B40C_C78A54EE4CF4|
 [cm]
 
@@ -3065,15 +3063,13 @@ Things mighta gone differently had she opened the door.[p]
 [SetSpeaker name="Ceren"]
 [char_motion_start name=ジェレン motion="ぴょん" page="fore" wait=false]
 [ジェレン storage="体 喜び2 - - "]
-Morgs makes her way to the lord’s manor, where Jacky’s waiting! 
-They have a heartwarming reunion! 
-And then she becomes his consul and transforms the city into a theonomy![p]
+Morgs makes her way to the lord’s manor, where Jacky’s waiting!
 [char_motion_start name=ジェレン motion="ぴょーん" page="fore" wait=false]
 [ジェレン storage="体 笑顔開口 - - "]
-感動の再会！　[wait time="100" canskip="false"]
+They have a heartwarming reunion![wait time="100" canskip="false"]
 [char_motion_start name=ジェレン motion="ぴょん2" page="fore" wait=false]
 [ジェレン storage="体 怒り開口 - - "]
-そしてモっちゃんが執政役になり、[w]街を信仰国家にしてしまう！[p]
+And then she becomes his consul and transforms the city into a theonomy![p]
 *scenariobutaiura_A250DE77_9909_4735_A37B_0AE4C53A0E48|
 [cm]
 
@@ -5877,12 +5873,12 @@ Like so?[p]
 [wt]
 
 [SetSpeaker name="Barnier"]
-こうか？[p]
+Like so?[p]
 [cm]
 
 [SetSpeaker name="Everyone"]
 [quake hmax="10" vmax="20" time="500"]
-ぎゃーーーーーーーーーーーーーー！！！！！！！！！[p]
+GRAAAAAAAAAAAAAAAAAAAAAAAAH![p]
 *scenariobutaiura_8DA449F6_3E0C_4475_8C2B_5898A140D78F|
 [cm]
 
@@ -6677,7 +6673,7 @@ O-[w]Oh, is that so...[p]
 
 [SetSpeaker name="Jacopo"]
 [quake hmax="10" vmax="20" time="500"]
-[font size="25" bold="true"]はあああああああああああああああああ！！！？[p]
+[font size="25" bold="true"]I BEG YOUR PARDON?![p]
 *scenariobutaiura_97958DB8_A4D0_403F_B2CA_96C54C29B3FE|
 [cm]
 
@@ -6938,7 +6934,7 @@ and then follow it up with a bunch of empty fluff![p]
 [SetSpeaker name="Jacopo"]
 [若ヤコポ storage="体 殺意 - - " popupchars="ジェレン 若ヤコポ"]
 [quake hmax="10" vmax="20" time="500"]
-[font size="30" bold="true"]ポップコーンなんかどうでもいいだろうがッッ！！[p]
+[font size="30" bold="true"]Who gives a damn about you eating popcorn?![p]
 *scenariobutaiura_6E2E7859_D621_430D_AC57_23BC877E94BE|
 [cm]
 
@@ -7172,14 +7168,13 @@ Hmm, [w]our names both start with “j” sounds, so that’d get confusing... [
 
 [SetSpeaker name="Ceren"]
 Boo—[wait time="500"]
-Don’t you dare finish that word![p]
 [cm]
 
 [SetSpeaker name="Jacopo"]
 [ジェレン storage="体 普通 - - " rceil=170 gceil=170 bceil=170 trans="false"]
 [若ヤコポ storage="体 怒り開口 - - " popupchars="ジェレン 若ヤコポ"]
 [char_quake name=若ヤコポ vime=500 hmax=10 wait=false]
-そのあだ名はやめてやれ！！！！！！！！！[p]
+Don’t you dare finish that word![p]
 *scenariobutaiura_83A5AAB6_A386_49FB_A3D4_D3DA0089157A|
 [cm]
 
@@ -9121,9 +9116,8 @@ So I’ll wish really hard for us to see each other again![p]
 [SetSpeaker name="Morgana"]
 [幼モルガーナ storage="体2 強い思案 - - "]
 ............[l][r]
-Does your “us” include my other half... [w]the White-Haired Girl?[p]
 [幼モルガーナ storage="体2 普通 - - "]
-そこに私の片割れ……白い髪の娘も入るの？[p]
+Does your “us” include my other half... [w]the White-Haired Girl?[p]
 *scenariobutaiura_2197ECA4_4F8E_436C_8622_650D14F0D6A8|
 [cm]
 

@@ -2,7 +2,7 @@
 
 English patch for The House in Fata Morgana - A Requiem for Innocence - Remastered. Based on the PS4 version of "The House in Fata Morgana Dreams of the Revenants Edition", re-enabling disabled english files that already exist in the game, as well a tiny bit of original work. This is still just merely an English patch for The House in Fata Morgana - A Requiem for Innocence - Remastered only with the help of assets from that PS4 game, it does not include reincarnation, or the short stories.
 
-Unlike the base game (which I also have a patch for [here](https://github.com/evangelos-ch/fata-morgana-remastered-english)), the PC version of The House in Fata Morgana - A Requiem for Innocence - Remastered also had a few issues even in the un-modded Japanese version which I do fix in this patch:
+Unlike the base game (which I also have a patch for [here](https://github.com/rainx0r/fata-morgana-remastered-english)), the PC version of The House in Fata Morgana - A Requiem for Innocence - Remastered also had a few issues even in the un-modded Japanese version which I do fix in this patch:
 
 - Mouse support. Yes, somehow it got released without having proper mouse support like the base game. Primarily with clicking to progress the text.
 - A crash in the final story due to a missing image.
@@ -13,7 +13,7 @@ The game can be obtained [here](https://www.animategames.jp/home/detail/30083), 
 
 ## Install
 
-1. Download the latest [Release](https://github.com/evangelos-ch/fata-morgana-requiem-remastered-english/releases).
+1. Download the latest [Release](https://github.com/rainx0r/fata-morgana-requiem-remastered-english/releases).
 2. Unzip its contents into the root of the install directory for The House in Fata Morgana - A Requiem for Innocence - Remastered and accept to overwrite existing files when asked.
 
 The game should now be fully in English. You can change the language between Japanese and English in the Config from the main menu.

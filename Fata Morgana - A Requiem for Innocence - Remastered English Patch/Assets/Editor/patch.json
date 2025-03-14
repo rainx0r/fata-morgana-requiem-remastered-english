@@ -4,6 +4,10 @@
     {
       "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/patch/data/scenario/ks_en/scenariobutaiura.txt",
       "BundlePath": "data/scenarioFD/ks_en/scenariobutaiura"
+    },
+    {
+      "AssetsPath": "Assets/fata_unity/AssetBundleResources/data/patch/data/scenario/ks_en/scenarioFD.txt",
+      "BundlePath": "data/scenarioFD/ks_en/scenarioFD"
     }
   ]
 }

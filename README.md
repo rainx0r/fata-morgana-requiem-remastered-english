@@ -22,7 +22,7 @@ The game should now be fully in English. You can change the language between Jap
 
 This is only if you're curious as to how you could build the patch yourself if you have the PS4 files.
 
-0. You'll need a dump of the PS4 version of "The House in Fata Morgana Dreams of the Revenants Edition". You'll also need to unpack it with a tool of your choice then unpack the `bgimage` AssetBundle. I used [AssetRipper](https://github.com/AssetRipper/AssetRipper). You can put all the PNGs in `Fata Morgana - A Requiem for Innocence - Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage` or just the ones referenced in [bgimage.json](https://github.com/evangelos-ch/fata-morgana-requiem-remastered-english/blob/master/Fata%20Morgana%20-%20A%20Requiem%20for%20Innocence%20-%20Remastered%20English%20Patch/Assets/Editor/bgimage_en.json).
+0. You'll need a dump of the PS4 version of "The House in Fata Morgana Dreams of the Revenants Edition". You'll also need to unpack it with a tool of your choice then unpack the `bgimage` AssetBundle. I used [AssetRipper](https://github.com/AssetRipper/AssetRipper). You can put all the PNGs in `Fata Morgana - A Requiem for Innocence - Remastered English Patch/Assets/fata_unity/AssetBundleResources/data/bgimage` or just the ones referenced in [bgimage.json](https://github.com/rainx0r/fata-morgana-requiem-remastered-english/blob/master/Fata%20Morgana%20-%20A%20Requiem%20for%20Innocence%20-%20Remastered%20English%20Patch/Assets/Editor/bgimage_en.json).
 1. Grab Unity 2017.4.33f1
 2. Open `Fata Morgana - A Requiem for Innocence - Remastered English Patch` as a Unity project.
 3. Build the AssetBundles with `Project > Build AssetBundles`.

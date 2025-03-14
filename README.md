@@ -7,7 +7,7 @@ Unlike the base game (which I also have a patch for [here](https://github.com/ra
 - Mouse support. Yes, somehow it got released without having proper mouse support like the base game. Primarily with clicking to progress the text.
 - A crash in the final story due to a missing image.
 
-Everything in the game including scripts, images and menus is translated based on the official translation of the game by MangaGamer. You can think of this patch as a port of that translation to the Remastered PC version if the game if you will.
+Everything in the game including scripts, images and menus is translated based on the official translation of the game by MangaGamer. You can think of this patch as a port of that translation to the Remastered PC version of the game if you will.
 
 The game can be obtained [here](https://www.animategames.jp/home/detail/30083), they seem to accept western cards (or at least they did mine) so long as you have a Japanese IP (you can use a VPN). Note that new account creation seems to require a Japanese SIM card. Please buy it to support Novectacle. Likewise please buy the official HD localized version (PS4 or PS Vita).
 
